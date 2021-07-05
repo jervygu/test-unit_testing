@@ -15,6 +15,7 @@
 		04D4B4982692972F0060BB01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D4B4962692972F0060BB01 /* LaunchScreen.storyboard */; };
 		04D4B4A32692972F0060BB01 /* Unit_TestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D4B4A22692972F0060BB01 /* Unit_TestingTests.swift */; };
 		04D4B4AE2692972F0060BB01 /* Unit_TestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D4B4AD2692972F0060BB01 /* Unit_TestingUITests.swift */; };
+		04D4B4C2269298240060BB01 /* MathStuff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D4B4C1269298240060BB01 /* MathStuff.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		04D4B4A92692972F0060BB01 /* Unit TestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Unit TestingUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04D4B4AD2692972F0060BB01 /* Unit_TestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Unit_TestingUITests.swift; sourceTree = "<group>"; };
 		04D4B4AF2692972F0060BB01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04D4B4C1269298240060BB01 /* MathStuff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathStuff.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				04D4B4942692972F0060BB01 /* Assets.xcassets */,
 				04D4B4962692972F0060BB01 /* LaunchScreen.storyboard */,
 				04D4B4992692972F0060BB01 /* Info.plist */,
+				04D4B4C1269298240060BB01 /* MathStuff.swift */,
 			);
 			path = "Unit Testing";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D4B4C2269298240060BB01 /* MathStuff.swift in Sources */,
 				04D4B4902692972D0060BB01 /* ViewController.swift in Sources */,
 				04D4B48C2692972D0060BB01 /* AppDelegate.swift in Sources */,
 				04D4B48E2692972D0060BB01 /* SceneDelegate.swift in Sources */,
